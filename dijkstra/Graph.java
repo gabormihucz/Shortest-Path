@@ -7,10 +7,7 @@ public class Graph {
 
 	private Vertex[] vertices; // the (array of) vertices
 	private int numVertices; // number of vertices
-
-
-	// possibly other fields representing properties of the graph
-
+	
 	/**
 	 * creates a new instance of Graph with n vertices
 	 */
